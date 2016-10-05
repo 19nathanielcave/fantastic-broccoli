@@ -1,0 +1,29 @@
+html {
+background: transparent;
+background-color: #252934;
+font-type:: Arial, Alvetica, sub-script;
+font-color: #FFF;
+padding-top: 60px;
+padding-bottom: 60px;
+padding-left: 30px;
+padding-right: 30px;
+margin-left: 960px;
+margin-right: 960px;
+text-decoration: none;
+}
+img {
+border-type: solid;
+border-size: 5px;
+border-color: #FFF;
+margin: auto;
+display: block;
+}
+h1 {
+font-size: 1.2em;
+}
+h2 {
+font-size: 1em;
+}
+h3{
+font-size: 0.9em;
+}
